@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T07:09:37.840Z",
+  "generated_at": "2026-11-03T07:10:54.444Z",
   "items": {
     "problem:1216": {
       "kind": "problem",
@@ -10,9 +10,9 @@
       "url": "https://www.deep-ml.com/problems/1216",
       "path": "problems/1216-binary-search-for-value-or-closest-index",
       "first_solved_at": "2026-11-03T07:09:33.359Z",
-      "last_pushed_at": "2026-11-03T07:09:33.359Z",
+      "last_pushed_at": "2026-11-03T07:10:54.361Z",
       "language": "python",
-      "lines": 22
+      "lines": 31
     }
   }
 }
